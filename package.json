@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/direktspeed/whmcs-dinero-sync/issues"
   },
-  "homepage": "https://github.com/direktspeed/whmcs-dinero-sync#readme"
+  "homepage": "https://github.com/direktspeed/whmcs-dinero-sync#readme",
+  "dependencies": {
+    "lib-dinero-dk": "git+https://github.com/direktspeed/lib-dinero-dk.git",
+    "lib-whmcs-api": "git+https://github.com/direktspeed/lib-whmcs-api.git"
+  }
 }
