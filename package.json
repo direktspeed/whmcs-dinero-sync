@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/direktspeed/whmcs-dinero-sync#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "lib-dinero-dk": "git+https://github.com/direktspeed/lib-dinero-dk.git",
     "lib-whmcs-api": "git+https://github.com/direktspeed/lib-whmcs-api.git"
   }
