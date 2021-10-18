@@ -1,4 +1,4 @@
-FROM node:7@sha256:af5c2c6ac8bc3fa372ac031ef60c45a285eeba7bce9ee9ed66dad3a01e29ab8d
+FROM node:16@sha256:d6a8cd069ab740759394a9338dc4bc4b9b32b15209cccd0c7faa32d438b1076e
 COPY . /app
 WORKDIR /app
 EXPOSE 3000
